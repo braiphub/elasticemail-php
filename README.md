@@ -15,8 +15,7 @@ Downloadable library clients can be found in our Github repository [here](https:
 
 ### Requirements
 
-PHP 7.4 and later.
-Should also work with PHP 8.0.
+PHP 7.2.
 
 ### Composer
 
